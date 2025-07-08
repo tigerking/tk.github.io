@@ -8,12 +8,17 @@
 
 
 #### Input test
-```html
 <form>
-  <input type="text" placeholder="Please enter...">
-  <button type="button">Submit</button>
+  <input type="text" id="userInput" placeholder="请输入...">
+  <button type="button" onclick="handleSubmit()">提交</button>
 </form>
-```
+
+<script>
+function handleSubmit() {
+  const input = document.getElementById('userInput').value;
+  alert('你输入了: ' + input);
+}
+</script>
 
 
 
