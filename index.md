@@ -2,9 +2,9 @@
 
 ### TESTS
 
-[redbull video](https://www.redbull.com/sg-en/videos/wsl-championship-tour-2025-surf-city-el-salvador-pro-wrap-show)
+- [redbull video](https://www.redbull.com/sg-en/videos/wsl-championship-tour-2025-surf-city-el-salvador-pro-wrap-show)
 
-[GamePad Test](https://hardwaretester.com/gamepad)
+- [GamePad Test](https://hardwaretester.com/gamepad)
 
 
 You can use the [editor on GitHub](https://github.com/tigerking/tk.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
