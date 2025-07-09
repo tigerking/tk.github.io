@@ -8,17 +8,8 @@
 
 
 #### Input test
-<form>
-  <input type="text" id="userInput" placeholder="请输入...">
-  <button type="button" onclick="handleSubmit()">提交</button>
-</form>
 
-<script>
-function handleSubmit() {
-  const input = document.getElementById('userInput').value;
-  alert('你输入了: ' + input);
-}
-</script>
+- [Input Test Page](https://www.ltiger.cn/i.html)
 
 
 
