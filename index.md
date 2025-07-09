@@ -9,6 +9,20 @@
 
 #### Input test
 
+<form>
+  <input type="text" id="userInput" placeholder="Input here">
+  <button type="button" onclick="handleSubmit()">Submit</button>
+</form>
+
+<script>
+function handleSubmit() {
+  const input = document.getElementById('userInput').value;
+  alert('Your inputs: ' + input);
+}
+</script>
+
+
+
 - [Input Test Page](https://www.ltiger.cn/i.html)
 
 
